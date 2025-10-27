@@ -24,7 +24,7 @@
 ## Como executar localmente
 1. Clone o repositório:
 ```
-git clone https://github.com/SEU_USUARIO/TechVida.git
+git clone https://github.com/IgorWendland/TechVida.git
 cd TechVida
 ```
 2. Abra `index.html` no navegador ou use Live Server no VS Code.
